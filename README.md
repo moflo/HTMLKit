@@ -136,7 +136,7 @@ HTMLDocument *document = [HTMLDocument documentWithString:htmlString];
 
 ## Parsing Fragments
 
-You can also prase HTML content as a document fragment with a specified context element:
+You can also parse HTML content as a document fragment with a specified context element:
 
 ```objective-c
 NSString *htmlString = @"<div><h1>HTMLKit</h1><p>Hello there!</p></div>";
